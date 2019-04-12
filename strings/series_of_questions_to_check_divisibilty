@@ -1,0 +1,41 @@
+https://www.geeksforgeeks.org/check-large-number-divisible-3-not/
+To check divisibility of large numbers which can't be stored as numbers, we use strings
+Check divisibility by -
+
+2- last digit divisible by 2
+3- Sum of digits divisible by 3
+4- last two digits divisible by 4
+5- last digit 5 or 0
+6- divisible by 2 and 3 both
+7- alternate sub and addition of series of 3 digits divisible by 7
+    e.g. Input : 8955795758
+    Output : Divisible by 7
+       Explanation:
+       We express the number in terms of triplets 
+       of digits as follows.
+                (008)(955)(795)(758)
+       Now, 758- 795 + 955 - 8 = 910, which is 
+       divisible by 7
+    refer- https://www.geeksforgeeks.org/check-whether-large-number-divisible-7/
+
+8- last 3 digits divisible by 8
+9- sum of digits divisible by 9
+10- last digit 0
+11- difference of sum of digits at odd places and sum of digits at even places divisible by 11
+    e.g.For example, let us consider 76945 
+    Sum of digits at odd places  : 7 + 9 + 5
+    Sum of digits at even places : 6 + 4 
+    Difference of two sums = 21 - 10 = 11
+    Since difference is divisible by 11, the
+    number 7945 is divisible by 11.
+    refer- https://www.geeksforgeeks.org/check-large-number-divisible-11-not/
+12- divisible by 3 and 4
+13- alternative sum and diff of 3 digits divisible by 13. https://www.geeksforgeeks.org/check-large-number-divisible-13-not/
+16- last 4 digits divisible by 16
+17- https://www.geeksforgeeks.org/check-if-any-large-number-is-divisible-by-17-or-not/
+19- https://www.geeksforgeeks.org/check-if-any-large-number-is-divisible-by-19-or-not/
+20- divisible by 5 and 4
+25- last 2 digits 0 or divisible by 25
+75- divisible by 3 and 25 both
+999- sum of 3 digits groups divisible by 999
+    https://www.geeksforgeeks.org/check-divisibility-large-number-999/
