@@ -17,4 +17,10 @@ different- Product of nodes at kth level of tree- https://www.geeksforgeeks.org/
 
 Ways to remove one element from a binary string so that XOR becomes zero- https://www.geeksforgeeks.org/ways-remove-one-element-binary-string-xor-becomes-zero/
 
+Number of substrings with count of each character as k- https://www.geeksforgeeks.org/number-substrings-count-character-k/
+
+Distinct strings with odd and even changes allowed- https://www.geeksforgeeks.org/distinct-strings-odd-even-changes-allowed/
+
+Count of words whose i-th letter is either (i-1)-th, i-th, or (i+1)-th letter of given word - https://www.geeksforgeeks.org/count-words-whose-th-letter-either-1-th-th-i1-th-letter-given-word/
+
 
